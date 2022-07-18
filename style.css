@@ -1,0 +1,42 @@
+/* Add font style and background color to the body */
+
+body{
+    background-color: rgb(3, 112, 12);
+    font-style : italic;
+    font-family: 'Trebuchet MS';
+}
+
+/* Add style to the header div */
+.header_div{
+    font-style: italic;
+    background-color: chocolate;
+    font-family:  'Times New Roman';
+    font-size: 30px;
+    color:cornflowerblue;
+}
+
+/* Add style to the header p tag: */
+
+.header_div p {
+    font-size: 20px;
+    color: gold; 
+}
+
+/* Add style to the button */
+button{
+    margin : 40px;
+    width: 150px;
+    padding: 10px;
+}
+
+/* Add style to the footer */
+
+.copy_right_footer{
+
+    position: fixed;
+    bottom : 10;
+    width : 100%;
+    background-color: blanchedalmond;
+    text-align: center;
+
+}
